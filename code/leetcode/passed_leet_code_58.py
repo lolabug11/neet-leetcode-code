@@ -1,3 +1,6 @@
+"""
+WE PASSED
+"""
 def lengthOfLastWord(s: str) -> int:
     s +=' '
     list_of_words = []
